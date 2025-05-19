@@ -37,7 +37,7 @@ Here we create the simulation real world issues in the dataset to check how the 
 
   
 
-![alt text](../../project/data/lettucemot/straight1_occ/img/000002.png)
+![alt text](examples/000002.png)
 
   
 
@@ -59,7 +59,7 @@ This created a output labels files in `assignments/me-5920-srihari-vemuru/runs/m
 
   
 
-![alt text](../../project/data/results/strongsort/B&F1/000003.png)
+![alt text](examples/000003.png)
 
   
 
