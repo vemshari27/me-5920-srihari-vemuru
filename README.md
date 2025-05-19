@@ -17,7 +17,7 @@ This is the code to run DeepSORT and StrongSORT on our lettuce dataset.
 
   
 
-We downloaded lettuce data from [LettuceMOT](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1047356/full) and [LFSD Dataset](https://ieee-dataport.org/documents/lfsd-dataset). It can be downloaded by visiting their websites. We have uploaded our entire data in this box link.
+We downloaded lettuce data from [LettuceMOT](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1047356/full) and [LFSD Dataset](https://ieee-dataport.org/documents/lfsd-dataset). It can be downloaded by visiting their websites. We have uploaded our entire data in this box [link](https://iastate.box.com/s/cpynvlcsrkhvk1nycl1ezc5toa4upwcn). A partial version of the data is available in this repo. The full data is uploaded in the cybox link above, but it is 32 GB. So, it will take some time for the full dataset to be visible.
 
   
 
